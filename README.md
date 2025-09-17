@@ -53,7 +53,7 @@ My work spans multi-objective reinforcement learning, agentic multimodal workflo
 ### Highlighted Work  
 
 **Multi-Objective Reinforcement Learning Project (under review)**  
-Developed a large-scale multi-objective RL system with novel evaluation metrics and a heterogeneous GNN-based PPO knowledge distillation framework. Presented at SoCal CS REU Symposium 2025.
+Developed a large-scale multi-objective RL system with novel evaluation metrics and Graph Neural Network (GNN) + Proximal Policy Optimization (PPO) training pipeline. Presented at SoCal CS REU Symposium 2025 at Harvey Mudd College.
 
 **Multi-Agent LLM Robotics**  
 Designed agentic pipelines for physics-informed Neural Architecture Search and digital twin simulations, integrating OpenGL physics engines, Intel RealSense video input, and Sawyer Robots with ROS.
