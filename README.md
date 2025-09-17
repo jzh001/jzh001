@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzh001&layout=compact&card_width=400" alt="Most Used Languages" width="50%" style="display: inline-block; vertical-align: top;">
 <img src="https://github-readme-stats.vercel.app/api?username=jzh001&show_icons=true&include_all_commits=true&card_width=400" alt="GitHub Stats" width="46%" style="display: inline-block; vertical-align: top;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzh001&layout=compact&card_width=400" alt="Most Used Languages" width="50%" style="display: inline-block; vertical-align: top;">
 
 </div>
 
