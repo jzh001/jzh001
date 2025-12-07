@@ -12,16 +12,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jzh001&show_icons=true&include_all_commits=true&card_width=400" alt="GitHub Stats" width="46%" style="display: inline-block; vertical-align: top;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzh001&layout=compact&card_width=400" alt="Most Used Languages" width="50%" style="display: inline-block; vertical-align: top;">
-
-</div>
-
----
-
-## 👤 About Me  
+## About Me  
 
 I’m an undergraduate researcher passionate about Machine Learning, Graph Neural Networks, Reinforcement Learning, and Large Language Models.  
 My work spans multi-objective reinforcement learning, agentic multimodal workflows, and open-source tools bridging research with practice.
@@ -33,22 +24,13 @@ My work spans multi-objective reinforcement learning, agentic multimodal workflo
 
 ---
 
-## 🛠 Skills Snapshot  
+## Skills
 
 | Languages | Frameworks & Libraries | Areas of Focus |
 |-----------|-----------------------|---------------|
 | Python · C++ · MATLAB · Java · JavaScript · SQL · LaTeX · Bash | PyTorch · HuggingFace · LangChain · LlamaIndex · ReactJS · FastAPI · Supabase | Graph Neural Networks · Reinforcement Learning · Large Language Models · Computer Vision |
 
 ---
-
-## 📂 Research & Projects  
-
-<div align="center">
-
-[![ArchGen](https://github-readme-stats.vercel.app/api/pin/?username=jzh001&repo=ArchGen)](https://github.com/jzh001/ArchGen)
-[![til-ai-2024](https://github-readme-stats.vercel.app/api/pin/?username=jzh001&repo=til-ai-2024)](https://github.com/jzh001/til-ai-2024)
-
-</div>
 
 ### Highlighted Work  
 
@@ -66,7 +48,7 @@ Developed a full-stack ride-sharing scheduling platform with ReactJS, ExpressJS,
 
 ---
 
-## 📝 Publications and Talks  
+## Publications and Talks  
 
 - Under review (Multi-Objective Reinforcement Learning Project) – presented at SoCal CS REU Symposium 2025  
 - LLM-Guided Model Development of Elastic Structures – UCLA Undergraduate Research Week 2025  
