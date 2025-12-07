@@ -40,12 +40,6 @@ Developed a large-scale multi-objective RL system with novel evaluation metrics 
 **Multi-Agent LLM Robotics**  
 Designed agentic pipelines for physics-informed Neural Architecture Search and digital twin simulations, integrating OpenGL physics engines, Intel RealSense video input, and Sawyer Robots with ROS.
 
-**ArchGen: Neural Network Diagram Generator**  
-Created a full-stack Agentic RAG Gradio app to generate professional neural network diagrams using Anthropic and Gemini APIs, Supabase vector embeddings, and containerized deployment.
-
-**When2Fly Web App**  
-Developed a full-stack ride-sharing scheduling platform with ReactJS, ExpressJS, PostgreSQL, and GitHub Actions for automated CI/CD.
-
 ---
 
 ## Publications and Talks  
